@@ -1,0 +1,104 @@
+
+zplhj_Free.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imagesA/baozha01
+  rotate: false
+  xy: 195, 382
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+imagesfree02/ItemFree02-1
+  rotate: false
+  xy: 2, 374
+  size: 191, 136
+  orig: 207, 183
+  offset: 5, 33
+  index: -1
+imagesfree02/ItemFree02-2
+  rotate: false
+  xy: 325, 415
+  size: 143, 95
+  orig: 207, 183
+  offset: 26, 8
+  index: -1
+imagesfree02/eff_fr_light/Itemfree_0001
+  rotate: false
+  xy: 470, 388
+  size: 27, 52
+  orig: 206, 120
+  offset: 20, 28
+  index: -1
+imagesfree02/eff_fr_light/Itemfree_0002
+  rotate: true
+  xy: 2, 258
+  size: 45, 92
+  orig: 206, 120
+  offset: 18, 23
+  index: -1
+imagesfree02/eff_fr_light/Itemfree_0003
+  rotate: true
+  xy: 2, 305
+  size: 67, 98
+  orig: 206, 120
+  offset: 18, 22
+  index: -1
+imagesfree02/eff_fr_light/Itemfree_0004
+  rotate: false
+  xy: 425, 289
+  size: 85, 97
+  orig: 206, 120
+  offset: 19, 23
+  index: -1
+imagesfree02/eff_fr_light/Itemfree_0005
+  rotate: true
+  xy: 325, 316
+  size: 97, 98
+  orig: 206, 120
+  offset: 26, 22
+  index: -1
+imagesfree02/eff_fr_light/Itemfree_0006
+  rotate: false
+  xy: 195, 284
+  size: 97, 96
+  orig: 206, 120
+  offset: 44, 22
+  index: -1
+imagesfree02/eff_fr_light/Itemfree_0007
+  rotate: false
+  xy: 294, 226
+  size: 94, 88
+  orig: 206, 120
+  offset: 66, 22
+  index: -1
+imagesfree02/eff_fr_light/Itemfree_0008
+  rotate: true
+  xy: 390, 203
+  size: 84, 88
+  orig: 206, 120
+  offset: 85, 22
+  index: -1
+imagesfree02/eff_fr_light/Itemfree_0009
+  rotate: true
+  xy: 102, 305
+  size: 67, 88
+  orig: 206, 120
+  offset: 103, 22
+  index: -1
+imagesfree02/eff_fr_light/Itemfree_0010
+  rotate: true
+  xy: 96, 255
+  size: 48, 85
+  orig: 206, 120
+  offset: 122, 24
+  index: -1
+imagesfree02/eff_fr_light/Itemfree_0011
+  rotate: false
+  xy: 470, 442
+  size: 27, 68
+  orig: 206, 120
+  offset: 141, 38
+  index: -1

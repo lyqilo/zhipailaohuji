@@ -1,0 +1,104 @@
+
+zplhj_A.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imagesA/ItemA
+  rotate: false
+  xy: 2, 357
+  size: 162, 152
+  orig: 207, 183
+  offset: 24, 15
+  index: -1
+imagesA/baozha01
+  rotate: false
+  xy: 166, 381
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+imagesA/chuanguang/chuanguagn_00004
+  rotate: false
+  xy: 494, 465
+  size: 15, 44
+  orig: 207, 183
+  offset: 39, 36
+  index: -1
+imagesA/chuanguang/chuanguagn_00005
+  rotate: false
+  xy: 474, 372
+  size: 17, 58
+  orig: 207, 183
+  offset: 38, 72
+  index: -1
+imagesA/chuanguang/chuanguagn_00006
+  rotate: false
+  xy: 433, 328
+  size: 56, 42
+  orig: 207, 183
+  offset: 44, 111
+  index: -1
+imagesA/chuanguang/chuanguagn_00007
+  rotate: true
+  xy: 474, 432
+  size: 77, 18
+  orig: 207, 183
+  offset: 71, 137
+  index: -1
+imagesA/chuanguang/chuanguagn_00008
+  rotate: false
+  xy: 287, 145
+  size: 134, 118
+  orig: 207, 183
+  offset: 37, 35
+  index: -1
+imagesA/chuanguang/chuanguagn_00009
+  rotate: false
+  xy: 296, 265
+  size: 135, 120
+  orig: 207, 183
+  offset: 38, 35
+  index: -1
+imagesA/chuanguang/chuanguagn_00010
+  rotate: true
+  xy: 166, 245
+  size: 134, 119
+  orig: 207, 183
+  offset: 39, 37
+  index: -1
+imagesA/chuanguang/chuanguagn_00011
+  rotate: false
+  xy: 296, 387
+  size: 134, 122
+  orig: 207, 183
+  offset: 39, 34
+  index: -1
+imagesA/chuanguang/chuanguagn_00012
+  rotate: false
+  xy: 2, 233
+  size: 130, 122
+  orig: 207, 183
+  offset: 43, 33
+  index: -1
+imagesA/chuanguang/chuanguagn_00013
+  rotate: true
+  xy: 134, 125
+  size: 118, 121
+  orig: 207, 183
+  offset: 55, 33
+  index: -1
+imagesA/chuanguang/chuanguagn_00014
+  rotate: true
+  xy: 2, 140
+  size: 91, 119
+  orig: 207, 183
+  offset: 81, 33
+  index: -1
+imagesA/chuanguang/chuanguagn_00015
+  rotate: true
+  xy: 432, 409
+  size: 100, 40
+  orig: 207, 183
+  offset: 69, 34
+  index: -1

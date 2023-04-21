@@ -1,0 +1,120 @@
+{"frames": [
+
+{
+	"filename": "shuzi_01.png",
+	"frame": {"x":1,"y":1,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_02.png",
+	"frame": {"x":17,"y":1,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_03.png",
+	"frame": {"x":33,"y":1,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_04.png",
+	"frame": {"x":49,"y":1,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_05.png",
+	"frame": {"x":1,"y":25,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_06.png",
+	"frame": {"x":17,"y":25,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_07.png",
+	"frame": {"x":33,"y":25,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_08.png",
+	"frame": {"x":49,"y":25,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_09.png",
+	"frame": {"x":1,"y":49,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_10.png",
+	"frame": {"x":1,"y":73,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_11.png",
+	"frame": {"x":1,"y":97,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_12.png",
+	"frame": {"x":17,"y":49,"w":14,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":22},
+	"sourceSize": {"w":14,"h":22},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gold.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d0fd39f3d9ec1b6313c1867faa915a5a:329ec7b695186757c9b864acd1673bd2:44f65ed58db2e23399c8bc48291769cf$"
+}
+}

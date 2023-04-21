@@ -1,0 +1,223 @@
+
+freein.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bg4
+  rotate: false
+  xy: 110, 817
+  size: 542, 70
+  orig: 544, 70
+  offset: 1, 0
+  index: -1
+images/free_ch_in/free_ch_in_00000
+  rotate: true
+  xy: 2, 971
+  size: 21, 42
+  orig: 750, 100
+  offset: 181, 30
+  index: -1
+images/free_ch_in/free_ch_in_00001
+  rotate: true
+  xy: 46, 967
+  size: 25, 43
+  orig: 750, 100
+  offset: 181, 29
+  index: -1
+images/free_ch_in/free_ch_in_00002
+  rotate: true
+  xy: 324, 955
+  size: 37, 43
+  orig: 750, 100
+  offset: 181, 29
+  index: -1
+images/free_ch_in/free_ch_in_00003
+  rotate: false
+  xy: 510, 949
+  size: 60, 43
+  orig: 750, 100
+  offset: 181, 29
+  index: -1
+images/free_ch_in/free_ch_in_00004
+  rotate: false
+  xy: 572, 949
+  size: 70, 43
+  orig: 750, 100
+  offset: 201, 29
+  index: -1
+images/free_ch_in/free_ch_in_00005
+  rotate: false
+  xy: 847, 948
+  size: 71, 44
+  orig: 750, 100
+  offset: 242, 28
+  index: -1
+images/free_ch_in/free_ch_in_00006
+  rotate: false
+  xy: 644, 949
+  size: 71, 43
+  orig: 750, 100
+  offset: 290, 29
+  index: -1
+images/free_ch_in/free_ch_in_00007
+  rotate: false
+  xy: 920, 948
+  size: 72, 44
+  orig: 750, 100
+  offset: 342, 28
+  index: -1
+images/free_ch_in/free_ch_in_00008
+  rotate: false
+  xy: 717, 949
+  size: 67, 43
+  orig: 750, 100
+  offset: 398, 29
+  index: -1
+images/free_ch_in/free_ch_in_00009
+  rotate: false
+  xy: 2, 921
+  size: 71, 44
+  orig: 750, 100
+  offset: 441, 28
+  index: -1
+images/free_ch_in/free_ch_in_00010
+  rotate: false
+  xy: 75, 916
+  size: 71, 44
+  orig: 750, 100
+  offset: 480, 28
+  index: -1
+images/free_ch_in/free_ch_in_00011
+  rotate: false
+  xy: 786, 949
+  size: 59, 43
+  orig: 750, 100
+  offset: 510, 29
+  index: -1
+images/free_ch_in/free_ch_in_00012
+  rotate: true
+  xy: 369, 954
+  size: 38, 43
+  orig: 750, 100
+  offset: 531, 29
+  index: -1
+images/free_ch_in/free_ch_in_00013
+  rotate: true
+  xy: 91, 965
+  size: 27, 43
+  orig: 750, 100
+  offset: 542, 29
+  index: -1
+images/free_en_in/free_en_in_00000
+  rotate: true
+  xy: 136, 962
+  size: 30, 91
+  orig: 750, 100
+  offset: 54, 6
+  index: -1
+images/free_en_in/free_en_in_00001
+  rotate: true
+  xy: 229, 956
+  size: 36, 93
+  orig: 750, 100
+  offset: 54, 4
+  index: -1
+images/free_en_in/free_en_in_00002
+  rotate: true
+  xy: 538, 890
+  size: 57, 96
+  orig: 750, 100
+  offset: 54, 2
+  index: -1
+images/free_en_in/free_en_in_00003
+  rotate: true
+  xy: 832, 854
+  size: 92, 96
+  orig: 750, 100
+  offset: 55, 2
+  index: -1
+images/free_en_in/free_en_in_00004
+  rotate: false
+  xy: 869, 756
+  size: 102, 96
+  orig: 750, 100
+  offset: 97, 3
+  index: -1
+images/free_en_in/free_en_in_00005
+  rotate: false
+  xy: 654, 759
+  size: 104, 95
+  orig: 750, 100
+  offset: 163, 3
+  index: -1
+images/free_en_in/free_en_in_00006
+  rotate: false
+  xy: 760, 757
+  size: 107, 95
+  orig: 750, 100
+  offset: 240, 3
+  index: -1
+images/free_en_in/free_en_in_00007
+  rotate: false
+  xy: 2, 820
+  size: 106, 94
+  orig: 750, 100
+  offset: 327, 3
+  index: -1
+images/free_en_in/free_en_in_00008
+  rotate: false
+  xy: 2, 722
+  size: 97, 96
+  orig: 750, 100
+  offset: 422, 2
+  index: -1
+images/free_en_in/free_en_in_00009
+  rotate: false
+  xy: 101, 719
+  size: 106, 96
+  orig: 750, 100
+  offset: 491, 3
+  index: -1
+images/free_en_in/free_en_in_00010
+  rotate: false
+  xy: 209, 719
+  size: 107, 96
+  orig: 750, 100
+  offset: 555, 3
+  index: -1
+images/free_en_in/free_en_in_00011
+  rotate: true
+  xy: 734, 856
+  size: 91, 96
+  orig: 750, 100
+  offset: 605, 2
+  index: -1
+images/free_en_in/free_en_in_00012
+  rotate: true
+  xy: 636, 889
+  size: 58, 96
+  orig: 750, 100
+  offset: 639, 2
+  index: -1
+images/free_en_in/free_en_in_00013
+  rotate: true
+  xy: 414, 954
+  size: 38, 94
+  orig: 750, 100
+  offset: 658, 3
+  index: -1
+images/images_huodemianfeiyouxi
+  rotate: false
+  xy: 148, 903
+  size: 388, 44
+  orig: 388, 44
+  offset: 0, 0
+  index: -1
+images/xiaoyouxi08
+  rotate: false
+  xy: 318, 659
+  size: 641, 95
+  orig: 643, 97
+  offset: 1, 1
+  index: -1

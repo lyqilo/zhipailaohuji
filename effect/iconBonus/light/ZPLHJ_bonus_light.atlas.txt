@@ -1,0 +1,111 @@
+
+ZPLHJ_bonus_light.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imagesBonus/ItemBonus
+  rotate: false
+  xy: 492, 651
+  size: 194, 167
+  orig: 207, 183
+  offset: 7, 8
+  index: -1
+imagesWild/eff_wild_light/101-1
+  rotate: true
+  xy: 438, 132
+  size: 81, 93
+  orig: 96, 112
+  offset: 5, 11
+  index: -1
+imagesWild/eff_wild_light/101-2
+  rotate: false
+  xy: 2, 176
+  size: 148, 180
+  orig: 208, 256
+  offset: 25, 39
+  index: -1
+imagesWild/eff_wild_light/101-3
+  rotate: false
+  xy: 297, 192
+  size: 139, 180
+  orig: 256, 272
+  offset: 55, 44
+  index: -1
+imagesWild/eff_wild_light/101-4
+  rotate: false
+  xy: 152, 187
+  size: 143, 169
+  orig: 256, 272
+  offset: 48, 53
+  index: -1
+imagesWild/eff_wild_light/101-5
+  rotate: true
+  xy: 438, 215
+  size: 139, 153
+  orig: 168, 200
+  offset: 14, 25
+  index: -1
+imagesWild/eff_wild_light/101-6
+  rotate: true
+  xy: 657, 515
+  size: 134, 137
+  orig: 168, 160
+  offset: 13, 12
+  index: -1
+imagesWild/eff_wild_light/101-7
+  rotate: true
+  xy: 688, 689
+  size: 129, 130
+  orig: 168, 160
+  offset: 17, 13
+  index: -1
+imagesWild/eff_wild_light/101-8
+  rotate: false
+  xy: 657, 396
+  size: 117, 117
+  orig: 128, 128
+  offset: 5, 6
+  index: -1
+imagesWild/eff_wild_light/effect_d06_01
+  rotate: true
+  xy: 593, 215
+  size: 139, 136
+  orig: 250, 240
+  offset: 70, 54
+  index: -1
+imagesWild/eff_wild_light/effect_d06_02
+  rotate: false
+  xy: 2, 358
+  size: 221, 223
+  orig: 250, 240
+  offset: 24, 17
+  index: -1
+imagesWild/eff_wild_light/effect_d06_03
+  rotate: true
+  xy: 253, 577
+  size: 241, 237
+  orig: 250, 240
+  offset: 8, 3
+  index: -1
+imagesWild/eff_wild_light/effect_d06_04
+  rotate: false
+  xy: 2, 583
+  size: 249, 235
+  orig: 250, 240
+  offset: 1, 4
+  index: -1
+imagesWild/eff_wild_light/effect_d06_05
+  rotate: false
+  xy: 225, 374
+  size: 234, 201
+  orig: 250, 240
+  offset: 11, 20
+  index: -1
+imagesWild/eff_wild_light/effect_d06_06
+  rotate: false
+  xy: 461, 356
+  size: 194, 219
+  orig: 250, 240
+  offset: 29, 11
+  index: -1

@@ -1,0 +1,125 @@
+
+zplhj_Q.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imagesA/baozha01
+  rotate: false
+  xy: 176, 416
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+imagesQ/ItemQ
+  rotate: false
+  xy: 2, 381
+  size: 172, 163
+  orig: 207, 183
+  offset: 18, 10
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00001
+  rotate: true
+  xy: 164, 348
+  size: 31, 10
+  orig: 207, 183
+  offset: 100, 38
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00002
+  rotate: true
+  xy: 139, 125
+  size: 62, 12
+  orig: 207, 183
+  offset: 71, 39
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00003
+  rotate: true
+  xy: 110, 98
+  size: 89, 27
+  orig: 207, 183
+  offset: 45, 39
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00004
+  rotate: true
+  xy: 110, 276
+  size: 103, 52
+  orig: 207, 183
+  offset: 32, 39
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00005
+  rotate: true
+  xy: 153, 69
+  size: 105, 79
+  orig: 207, 183
+  offset: 31, 40
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00006
+  rotate: true
+  xy: 2, 2
+  size: 106, 105
+  orig: 207, 183
+  offset: 31, 40
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00007
+  rotate: true
+  xy: 306, 438
+  size: 106, 119
+  orig: 207, 183
+  offset: 32, 39
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00008
+  rotate: false
+  xy: 2, 110
+  size: 106, 124
+  orig: 207, 183
+  offset: 32, 39
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00009
+  rotate: true
+  xy: 294, 308
+  size: 106, 120
+  orig: 207, 183
+  offset: 32, 42
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00010
+  rotate: true
+  xy: 176, 284
+  size: 130, 116
+  orig: 207, 183
+  offset: 33, 46
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00011
+  rotate: true
+  xy: 2, 236
+  size: 143, 106
+  orig: 207, 183
+  offset: 34, 56
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00012
+  rotate: true
+  xy: 305, 164
+  size: 142, 81
+  orig: 207, 183
+  offset: 36, 80
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00013
+  rotate: false
+  xy: 164, 176
+  size: 139, 106
+  orig: 207, 183
+  offset: 39, 55
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00014
+  rotate: false
+  xy: 234, 49
+  size: 69, 125
+  orig: 207, 183
+  offset: 108, 32
+  index: -1
+imagesQ/eff_yisheq/ItemQ_00015
+  rotate: false
+  xy: 110, 189
+  size: 46, 85
+  orig: 207, 183
+  offset: 128, 25
+  index: -1

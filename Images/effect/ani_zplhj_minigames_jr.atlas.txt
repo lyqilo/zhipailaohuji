@@ -1,0 +1,20 @@
+
+ani_zplhj_minigames_jr.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xiaoyouxi06
+  rotate: false
+  xy: 2, 944
+  size: 1082, 140
+  orig: 1088, 140
+  offset: 3, 0
+  index: -1
+images/xiaoyouxi07
+  rotate: false
+  xy: 2, 802
+  size: 1082, 140
+  orig: 1088, 140
+  offset: 3, 0
+  index: -1

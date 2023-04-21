@@ -1,0 +1,125 @@
+
+zplhj_Bounus.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imagesA/baozha01
+  rotate: false
+  xy: 196, 285
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+imagesBonus/ItemBonus01-1
+  rotate: false
+  xy: 2, 285
+  size: 192, 128
+  orig: 207, 183
+  offset: 7, 47
+  index: -1
+imagesBonus/ItemBonus01-2
+  rotate: true
+  xy: 326, 221
+  size: 192, 83
+  orig: 207, 183
+  offset: 9, 9
+  index: -1
+imagesBonus/images_eff_bonus/ItemBonus_light_00000
+  rotate: true
+  xy: 256, 259
+  size: 24, 45
+  orig: 206, 120
+  offset: 4, 31
+  index: -1
+imagesBonus/images_eff_bonus/ItemBonus_light_00001
+  rotate: true
+  xy: 238, 81
+  size: 45, 78
+  orig: 206, 120
+  offset: 1, 27
+  index: -1
+imagesBonus/images_eff_bonus/ItemBonus_light_00002
+  rotate: false
+  xy: 77, 9
+  size: 63, 83
+  orig: 206, 120
+  offset: 1, 26
+  index: -1
+imagesBonus/images_eff_bonus/ItemBonus_light_00003
+  rotate: false
+  xy: 87, 200
+  size: 82, 83
+  orig: 206, 120
+  offset: 2, 26
+  index: -1
+imagesBonus/images_eff_bonus/ItemBonus_light_00004
+  rotate: true
+  xy: 2, 190
+  size: 93, 83
+  orig: 206, 120
+  offset: 10, 26
+  index: -1
+imagesBonus/images_eff_bonus/ItemBonus_light_00005
+  rotate: true
+  xy: 2, 94
+  size: 94, 79
+  orig: 206, 120
+  offset: 28, 26
+  index: -1
+imagesBonus/images_eff_bonus/ItemBonus_light_00006
+  rotate: true
+  xy: 2, 2
+  size: 90, 73
+  orig: 206, 120
+  offset: 50, 26
+  index: -1
+imagesBonus/images_eff_bonus/ItemBonus_light_00007
+  rotate: true
+  xy: 262, 128
+  size: 91, 74
+  orig: 206, 120
+  offset: 68, 26
+  index: -1
+imagesBonus/images_eff_bonus/ItemBonus_light_00008
+  rotate: true
+  xy: 163, 45
+  size: 91, 73
+  orig: 206, 120
+  offset: 87, 26
+  index: -1
+imagesBonus/images_eff_bonus/ItemBonus_light_00009
+  rotate: false
+  xy: 171, 138
+  size: 89, 81
+  orig: 206, 120
+  offset: 106, 26
+  index: -1
+imagesBonus/images_eff_bonus/ItemBonus_light_00010
+  rotate: false
+  xy: 83, 104
+  size: 78, 84
+  orig: 206, 120
+  offset: 124, 26
+  index: -1
+imagesBonus/images_eff_bonus/ItemBonus_light_00011
+  rotate: true
+  xy: 171, 224
+  size: 59, 83
+  orig: 206, 120
+  offset: 143, 27
+  index: -1
+imagesBonus/images_eff_bonus/ItemBonus_light_00012
+  rotate: false
+  xy: 318, 50
+  size: 42, 76
+  orig: 206, 120
+  offset: 160, 32
+  index: -1
+imagesBonus/images_eff_bonus/ItemBonus_light_00013
+  rotate: true
+  xy: 256, 241
+  size: 16, 26
+  orig: 206, 120
+  offset: 180, 72
+  index: -1

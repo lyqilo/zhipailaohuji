@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "gold_,.png",
+	"frame": {"x":0,"y":0,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_..png",
+	"frame": {"x":21,"y":0,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_0.png",
+	"frame": {"x":42,"y":0,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_1.png",
+	"frame": {"x":0,"y":21,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_2.png",
+	"frame": {"x":21,"y":21,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_3.png",
+	"frame": {"x":42,"y":21,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_4.png",
+	"frame": {"x":0,"y":42,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_5.png",
+	"frame": {"x":21,"y":42,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_6.png",
+	"frame": {"x":42,"y":42,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_7.png",
+	"frame": {"x":0,"y":63,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_8.png",
+	"frame": {"x":21,"y":63,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_9.png",
+	"frame": {"x":42,"y":63,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_B.png",
+	"frame": {"x":0,"y":84,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_K.png",
+	"frame": {"x":21,"y":84,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_M.png",
+	"frame": {"x":42,"y":84,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+},
+{
+	"filename": "gold_T.png",
+	"frame": {"x":0,"y":105,"w":21,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":21},
+	"sourceSize": {"w":21,"h":21}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gold1.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:beb6eaf1c0e35e043c221799aac6e57a:b3042c2351521dff8401dd4283e869e0:97536cfa415af2b8661adc88dfaed790$"
+}
+}

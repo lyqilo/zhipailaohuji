@@ -1,0 +1,160 @@
+
+eff_zplhj_dt.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_zplhj_dt/eff_txt_sg/images_txt_sg_0000
+  rotate: true
+  xy: 2, 1707
+  size: 15, 20
+  orig: 480, 120
+  offset: 20, 11
+  index: -1
+images_zplhj_dt/eff_txt_sg/images_txt_sg_0001
+  rotate: true
+  xy: 56, 1668
+  size: 54, 93
+  orig: 480, 120
+  offset: 19, 10
+  index: -1
+images_zplhj_dt/eff_txt_sg/images_txt_sg_0002
+  rotate: true
+  xy: 608, 1634
+  size: 88, 96
+  orig: 480, 120
+  offset: 19, 10
+  index: -1
+images_zplhj_dt/eff_txt_sg/images_txt_sg_0003
+  rotate: false
+  xy: 1385, 1627
+  size: 110, 95
+  orig: 480, 120
+  offset: 38, 14
+  index: -1
+images_zplhj_dt/eff_txt_sg/images_txt_sg_0004
+  rotate: false
+  xy: 1167, 1629
+  size: 109, 93
+  orig: 480, 120
+  offset: 76, 17
+  index: -1
+images_zplhj_dt/eff_txt_sg/images_txt_sg_0005
+  rotate: false
+  xy: 706, 1630
+  size: 113, 92
+  orig: 480, 120
+  offset: 117, 18
+  index: -1
+images_zplhj_dt/eff_txt_sg/images_txt_sg_0006
+  rotate: false
+  xy: 821, 1630
+  size: 114, 92
+  orig: 480, 120
+  offset: 156, 18
+  index: -1
+images_zplhj_dt/eff_txt_sg/images_txt_sg_0007
+  rotate: false
+  xy: 937, 1630
+  size: 110, 92
+  orig: 480, 120
+  offset: 201, 18
+  index: -1
+images_zplhj_dt/eff_txt_sg/images_txt_sg_0008
+  rotate: false
+  xy: 1049, 1630
+  size: 116, 92
+  orig: 480, 120
+  offset: 236, 18
+  index: -1
+images_zplhj_dt/eff_txt_sg/images_txt_sg_0009
+  rotate: false
+  xy: 1278, 1628
+  size: 105, 94
+  orig: 480, 120
+  offset: 290, 16
+  index: -1
+images_zplhj_dt/eff_txt_sg/images_txt_sg_0010
+  rotate: false
+  xy: 1497, 1624
+  size: 122, 98
+  orig: 480, 120
+  offset: 316, 12
+  index: -1
+images_zplhj_dt/eff_txt_sg/images_txt_sg_0011
+  rotate: false
+  xy: 1621, 1624
+  size: 101, 98
+  orig: 480, 120
+  offset: 360, 10
+  index: -1
+images_zplhj_dt/eff_txt_sg/images_txt_sg_0012
+  rotate: true
+  xy: 151, 1662
+  size: 60, 95
+  orig: 480, 120
+  offset: 401, 10
+  index: -1
+images_zplhj_dt/eff_txt_sg/images_txt_sg_0013
+  rotate: true
+  xy: 24, 1705
+  size: 17, 30
+  orig: 480, 120
+  offset: 444, 70
+  index: -1
+images_zplhj_dt/images_deng1(1)
+  rotate: false
+  xy: 445, 1478
+  size: 909, 148
+  orig: 909, 150
+  offset: 0, 1
+  index: -1
+images_zplhj_dt/images_deng1(2)
+  rotate: false
+  xy: 2, 1328
+  size: 909, 148
+  orig: 909, 150
+  offset: 0, 1
+  index: -1
+images_zplhj_dt/images_red_fk
+  rotate: true
+  xy: 248, 1660
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: -1
+images_zplhj_dt/images_red_ht
+  rotate: true
+  xy: 338, 1648
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+images_zplhj_dt/images_red_mh
+  rotate: true
+  xy: 428, 1645
+  size: 77, 88
+  orig: 77, 88
+  offset: 0, 0
+  index: -1
+images_zplhj_dt/images_red_tx
+  rotate: true
+  xy: 518, 1640
+  size: 82, 88
+  orig: 82, 88
+  offset: 0, 0
+  index: -1
+images_zplhj_dt/txt_laohuji
+  rotate: false
+  xy: 2, 1543
+  size: 441, 100
+  orig: 441, 100
+  offset: 0, 0
+  index: -1
+images_zplhj_dt/ui_liagn1
+  rotate: false
+  xy: 2, 1059
+  size: 1135, 267
+  orig: 1147, 268
+  offset: 12, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+effect_fangkuang_light2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_xz_kuang1/max_light/max_light_0000
+  rotate: false
+  xy: 2, 1016
+  size: 280, 448
+  orig: 280, 448
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/max_light/max_light_0002
+  rotate: true
+  xy: 2, 734
+  size: 280, 448
+  orig: 280, 448
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/max_light/max_light_0004
+  rotate: true
+  xy: 284, 1184
+  size: 280, 448
+  orig: 280, 448
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/max_light/max_light_0006
+  rotate: false
+  xy: 452, 734
+  size: 280, 448
+  orig: 280, 448
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/max_light/max_light_0008
+  rotate: true
+  xy: 2, 452
+  size: 280, 448
+  orig: 280, 448
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/max_light/max_light_0010
+  rotate: true
+  xy: 452, 452
+  size: 280, 448
+  orig: 280, 448
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/max_light/max_light_0012
+  rotate: true
+  xy: 734, 1184
+  size: 280, 448
+  orig: 280, 448
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/max_light/max_light_0014
+  rotate: true
+  xy: 734, 902
+  size: 280, 448
+  orig: 280, 448
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/max_light/max_light_0016
+  rotate: false
+  xy: 902, 452
+  size: 280, 448
+  orig: 280, 448
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/max_light/max_light_0018
+  rotate: false
+  xy: 1184, 1016
+  size: 280, 448
+  orig: 280, 448
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/max_light/max_light_0020
+  rotate: false
+  xy: 1184, 566
+  size: 280, 448
+  orig: 280, 448
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/max_light/max_light_0022
+  rotate: false
+  xy: 1184, 116
+  size: 280, 448
+  orig: 280, 448
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/max_light/max_light_0024
+  rotate: true
+  xy: 2, 170
+  size: 280, 448
+  orig: 280, 448
+  offset: 0, 0
+  index: -1

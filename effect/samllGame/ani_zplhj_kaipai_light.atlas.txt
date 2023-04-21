@@ -1,0 +1,153 @@
+
+ani_zplhj_kaipai_light.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/eff_fasan_light/guangquan1
+  rotate: false
+  xy: 607, 345
+  size: 154, 154
+  orig: 167, 167
+  offset: 6, 7
+  index: -1
+images/eff_fasan_light/images_fapai_xzg1
+  rotate: true
+  xy: 2, 406
+  size: 256, 255
+  orig: 256, 256
+  offset: 0, 1
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(1)
+  rotate: true
+  xy: 402, 677
+  size: 74, 112
+  orig: 205, 276
+  offset: 50, 73
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(10)
+  rotate: false
+  xy: 413, 22
+  size: 177, 204
+  orig: 205, 276
+  offset: 12, 52
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(11)
+  rotate: false
+  xy: 234, 18
+  size: 177, 208
+  orig: 205, 276
+  offset: 22, 52
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(12)
+  rotate: false
+  xy: 2, 181
+  size: 183, 223
+  orig: 205, 276
+  offset: 13, 40
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(13)
+  rotate: true
+  xy: 2, 2
+  size: 177, 230
+  orig: 205, 276
+  offset: 25, 46
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(14)
+  rotate: false
+  xy: 259, 442
+  size: 177, 227
+  orig: 205, 276
+  offset: 23, 42
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(15)
+  rotate: false
+  xy: 419, 757
+  size: 176, 224
+  orig: 205, 276
+  offset: 29, 46
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(16)
+  rotate: true
+  xy: 187, 228
+  size: 176, 230
+  orig: 205, 276
+  offset: 0, 5
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(17)
+  rotate: false
+  xy: 597, 805
+  size: 176, 176
+  orig: 205, 276
+  offset: 2, 17
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(18)
+  rotate: false
+  xy: 232, 753
+  size: 185, 228
+  orig: 205, 276
+  offset: 5, 0
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(2)
+  rotate: true
+  xy: 232, 671
+  size: 80, 168
+  orig: 205, 276
+  offset: 58, 39
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(3)
+  rotate: true
+  xy: 757, 695
+  size: 108, 146
+  orig: 205, 276
+  offset: 43, 57
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(4)
+  rotate: true
+  xy: 597, 679
+  size: 124, 158
+  orig: 276, 205
+  offset: 72, 8
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(5)
+  rotate: false
+  xy: 752, 507
+  size: 133, 170
+  orig: 205, 276
+  offset: 31, 58
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(6)
+  rotate: false
+  xy: 605, 501
+  size: 145, 176
+  orig: 276, 205
+  offset: 65, 8
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(7)
+  rotate: false
+  xy: 438, 484
+  size: 165, 191
+  orig: 205, 276
+  offset: 17, 53
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(8)
+  rotate: false
+  xy: 592, 38
+  size: 170, 208
+  orig: 205, 276
+  offset: 19, 42
+  index: -1
+images/eff_fasan_light/images_jinbibaofen_light(9)
+  rotate: false
+  xy: 419, 248
+  size: 186, 192
+  orig: 205, 276
+  offset: 15, 54
+  index: -1
+images/eff_fasan_light/xiaoyouxi03
+  rotate: false
+  xy: 2, 664
+  size: 228, 317
+  orig: 240, 326
+  offset: 6, 4
+  index: -1

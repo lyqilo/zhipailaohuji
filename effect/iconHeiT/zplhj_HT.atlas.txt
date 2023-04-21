@@ -1,0 +1,237 @@
+
+zplhj_HT.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imagesA/baozha01
+  rotate: false
+  xy: 2, 451
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+imagesHT/ItemHeitao
+  rotate: false
+  xy: 2, 845
+  size: 153, 174
+  orig: 207, 183
+  offset: 26, 3
+  index: -1
+imagesHT/images_ht_light/ItemHT_00001
+  rotate: false
+  xy: 42, 3
+  size: 12, 32
+  orig: 207, 183
+  offset: 83, 15
+  index: -1
+imagesHT/images_ht_light/ItemHT_00002
+  rotate: false
+  xy: 2, 2
+  size: 38, 33
+  orig: 207, 183
+  offset: 56, 16
+  index: -1
+imagesHT/images_ht_light/ItemHT_00003
+  rotate: true
+  xy: 372, 44
+  size: 58, 55
+  orig: 207, 183
+  offset: 36, 17
+  index: -1
+imagesHT/images_ht_light/ItemHT_00004
+  rotate: false
+  xy: 407, 523
+  size: 59, 84
+  orig: 207, 183
+  offset: 34, 17
+  index: -1
+imagesHT/images_ht_light/ItemHT_00005
+  rotate: false
+  xy: 358, 363
+  size: 58, 109
+  orig: 207, 183
+  offset: 35, 17
+  index: -1
+imagesHT/images_ht_light/ItemHT_00006
+  rotate: false
+  xy: 312, 43
+  size: 58, 130
+  orig: 207, 183
+  offset: 35, 17
+  index: -1
+imagesHT/images_ht_light/ItemHT_00007
+  rotate: false
+  xy: 239, 20
+  size: 71, 153
+  orig: 207, 183
+  offset: 35, 17
+  index: -1
+imagesHT/images_ht_light/ItemHT_00008
+  rotate: true
+  xy: 393, 929
+  size: 90, 154
+  orig: 207, 183
+  offset: 36, 17
+  index: -1
+imagesHT/images_ht_light/ItemHT_00009
+  rotate: true
+  xy: 270, 474
+  size: 113, 135
+  orig: 207, 183
+  offset: 36, 36
+  index: -1
+imagesHT/images_ht_light/ItemHT_00010
+  rotate: true
+  xy: 2, 712
+  size: 131, 129
+  orig: 207, 183
+  offset: 37, 42
+  index: -1
+imagesHT/images_ht_light/ItemHT_00011
+  rotate: true
+  xy: 389, 749
+  size: 132, 109
+  orig: 207, 183
+  offset: 39, 61
+  index: -1
+imagesHT/images_ht_light/ItemHT_00012
+  rotate: false
+  xy: 2, 581
+  size: 128, 129
+  orig: 207, 183
+  offset: 43, 41
+  index: -1
+imagesHT/images_ht_light/ItemHT_00013
+  rotate: false
+  xy: 368, 609
+  size: 113, 134
+  orig: 207, 183
+  offset: 58, 35
+  index: -1
+imagesHT/images_ht_light/ItemHT_00014
+  rotate: false
+  xy: 357, 185
+  size: 56, 131
+  orig: 207, 183
+  offset: 114, 11
+  index: -1
+imagesHT/images_ht_light/ItemHT_00015
+  rotate: true
+  xy: 372, 104
+  size: 79, 56
+  orig: 207, 183
+  offset: 83, 11
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00000
+  rotate: false
+  xy: 132, 574
+  size: 116, 136
+  orig: 207, 183
+  offset: 46, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00015
+  rotate: false
+  xy: 132, 574
+  size: 116, 136
+  orig: 207, 183
+  offset: 46, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00001
+  rotate: true
+  xy: 132, 456
+  size: 116, 136
+  orig: 207, 183
+  offset: 46, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00002
+  rotate: true
+  xy: 133, 727
+  size: 116, 136
+  orig: 207, 183
+  offset: 46, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00003
+  rotate: false
+  xy: 250, 589
+  size: 116, 136
+  orig: 207, 183
+  offset: 46, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00004
+  rotate: false
+  xy: 157, 883
+  size: 116, 136
+  orig: 207, 183
+  offset: 46, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00005
+  rotate: false
+  xy: 271, 745
+  size: 116, 136
+  orig: 207, 183
+  offset: 46, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00006
+  rotate: false
+  xy: 275, 883
+  size: 116, 136
+  orig: 207, 183
+  offset: 46, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00007
+  rotate: false
+  xy: 2, 313
+  size: 117, 136
+  orig: 207, 183
+  offset: 45, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00008
+  rotate: false
+  xy: 2, 175
+  size: 117, 136
+  orig: 207, 183
+  offset: 45, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00009
+  rotate: false
+  xy: 2, 37
+  size: 117, 136
+  orig: 207, 183
+  offset: 45, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00010
+  rotate: false
+  xy: 121, 313
+  size: 117, 136
+  orig: 207, 183
+  offset: 45, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00011
+  rotate: false
+  xy: 121, 175
+  size: 116, 136
+  orig: 207, 183
+  offset: 46, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00012
+  rotate: false
+  xy: 121, 37
+  size: 116, 136
+  orig: 207, 183
+  offset: 46, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00013
+  rotate: false
+  xy: 239, 175
+  size: 116, 136
+  orig: 207, 183
+  offset: 46, 22
+  index: -1
+imagesHT/images_ht_light/Itemht_light_00014
+  rotate: false
+  xy: 240, 318
+  size: 116, 136
+  orig: 207, 183
+  offset: 46, 22
+  index: -1

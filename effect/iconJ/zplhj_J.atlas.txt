@@ -1,0 +1,125 @@
+
+zplhj_J.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imagesA/baozha01
+  rotate: false
+  xy: 163, 381
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+imagesB/ItemJ
+  rotate: false
+  xy: 2, 357
+  size: 159, 152
+  orig: 207, 183
+  offset: 24, 15
+  index: -1
+imagesB/chuanguangJ/images_res_J_00000
+  rotate: true
+  xy: 115, 308
+  size: 47, 43
+  orig: 207, 183
+  offset: 82, 61
+  index: -1
+imagesB/chuanguangJ/images_res_J_00001
+  rotate: true
+  xy: 406, 299
+  size: 35, 81
+  orig: 207, 183
+  offset: 95, 63
+  index: -1
+imagesB/chuanguangJ/images_res_J_00002
+  rotate: true
+  xy: 405, 258
+  size: 39, 79
+  orig: 207, 183
+  offset: 120, 77
+  index: -1
+imagesB/chuanguangJ/images_res_J_00003
+  rotate: true
+  xy: 63, 306
+  size: 49, 50
+  orig: 207, 183
+  offset: 121, 107
+  index: -1
+imagesB/chuanguangJ/images_res_J_00004
+  rotate: true
+  xy: 275, 276
+  size: 50, 79
+  orig: 207, 183
+  offset: 122, 76
+  index: -1
+imagesB/chuanguangJ/images_res_J_00005
+  rotate: true
+  xy: 275, 328
+  size: 35, 109
+  orig: 207, 183
+  offset: 137, 45
+  index: -1
+imagesB/chuanguangJ/images_res_J_00006
+  rotate: false
+  xy: 419, 403
+  size: 85, 106
+  orig: 207, 183
+  offset: 86, 33
+  index: -1
+imagesB/chuanguangJ/images_res_J_00007
+  rotate: false
+  xy: 293, 365
+  size: 122, 76
+  orig: 207, 183
+  offset: 47, 31
+  index: -1
+imagesB/chuanguangJ/images_res_J_00008
+  rotate: false
+  xy: 293, 443
+  size: 124, 66
+  orig: 207, 183
+  offset: 39, 32
+  index: -1
+imagesB/chuanguangJ/images_res_J_00009
+  rotate: false
+  xy: 163, 313
+  size: 110, 66
+  orig: 207, 183
+  offset: 37, 34
+  index: -1
+imagesB/chuanguangJ/images_res_J_00010
+  rotate: false
+  xy: 417, 336
+  size: 81, 65
+  orig: 207, 183
+  offset: 38, 35
+  index: -1
+imagesB/chuanguangJ/images_res_J_00011
+  rotate: true
+  xy: 2, 304
+  size: 51, 59
+  orig: 207, 183
+  offset: 38, 40
+  index: -1
+imagesB/chuanguangJ/images_res_J_00012
+  rotate: false
+  xy: 356, 269
+  size: 47, 47
+  orig: 207, 183
+  offset: 39, 51
+  index: -1
+imagesB/chuanguangJ/images_res_J_00013
+  rotate: true
+  xy: 386, 318
+  size: 45, 18
+  orig: 207, 183
+  offset: 41, 80
+  index: -1
+imagesB/chuanguangJ/images_res_J_00014
+  rotate: true
+  xy: 506, 486
+  size: 23, 3
+  orig: 207, 183
+  offset: 62, 94
+  index: -1

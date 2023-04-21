@@ -1,0 +1,202 @@
+
+ani_zplhj_freetimes_jiesuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/baoguang1
+  rotate: false
+  xy: 383, 830
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+images/bg4
+  rotate: false
+  xy: 2, 954
+  size: 515, 67
+  orig: 517, 67
+  offset: 1, 0
+  index: -1
+images/eff_gongxihuode/gxhuode_001_0000
+  rotate: false
+  xy: 975, 787
+  size: 32, 32
+  orig: 437, 82
+  offset: 27, 46
+  index: -1
+images/eff_gongxihuode/gxhuode_001_0002
+  rotate: false
+  xy: 738, 664
+  size: 90, 77
+  orig: 437, 82
+  offset: 14, 4
+  index: -1
+images/eff_gongxihuode/gxhuode_001_0004
+  rotate: false
+  xy: 855, 857
+  size: 136, 80
+  orig: 437, 82
+  offset: 17, 1
+  index: -1
+images/eff_gongxihuode/gxhuode_001_0006
+  rotate: false
+  xy: 870, 939
+  size: 151, 82
+  orig: 437, 82
+  offset: 50, 0
+  index: -1
+images/eff_gongxihuode/gxhuode_001_0008
+  rotate: false
+  xy: 654, 866
+  size: 144, 82
+  orig: 437, 82
+  offset: 102, 0
+  index: -1
+images/eff_gongxihuode/gxhuode_001_0010
+  rotate: false
+  xy: 235, 786
+  size: 145, 82
+  orig: 437, 82
+  offset: 151, 0
+  index: -1
+images/eff_gongxihuode/gxhuode_001_0012
+  rotate: false
+  xy: 235, 870
+  size: 146, 82
+  orig: 437, 82
+  offset: 201, 0
+  index: -1
+images/eff_gongxihuode/gxhuode_001_0014
+  rotate: false
+  xy: 507, 866
+  size: 145, 82
+  orig: 437, 82
+  offset: 255, 0
+  index: -1
+images/eff_gongxihuode/gxhuode_001_0016
+  rotate: false
+  xy: 855, 774
+  size: 118, 81
+  orig: 437, 82
+  offset: 302, 0
+  index: -1
+images/eff_gongxihuode/gxhuode_001_0018
+  rotate: true
+  xy: 738, 589
+  size: 73, 78
+  orig: 437, 82
+  offset: 348, 1
+  index: -1
+images/eff_gongxihuode/gxhuode_001_0019
+  rotate: true
+  xy: 800, 897
+  size: 51, 53
+  orig: 437, 82
+  offset: 366, 3
+  index: -1
+images/eff_lizibaokai/images_lizibaokai(1)
+  rotate: true
+  xy: 975, 821
+  size: 34, 38
+  orig: 125, 115
+  offset: 58, 41
+  index: -1
+images/eff_lizibaokai/images_lizibaokai(10)
+  rotate: false
+  xy: 382, 727
+  size: 116, 101
+  orig: 125, 115
+  offset: 7, 10
+  index: -1
+images/eff_lizibaokai/images_lizibaokai(11)
+  rotate: false
+  xy: 626, 660
+  size: 110, 103
+  orig: 125, 115
+  offset: 5, 9
+  index: -1
+images/eff_lizibaokai/images_lizibaokai(12)
+  rotate: false
+  xy: 626, 765
+  size: 113, 99
+  orig: 125, 115
+  offset: 5, 10
+  index: -1
+images/eff_lizibaokai/images_lizibaokai(13)
+  rotate: false
+  xy: 235, 672
+  size: 114, 112
+  orig: 125, 115
+  offset: 7, 3
+  index: -1
+images/eff_lizibaokai/images_lizibaokai(2)
+  rotate: true
+  xy: 800, 849
+  size: 46, 53
+  orig: 125, 115
+  offset: 48, 31
+  index: -1
+images/eff_lizibaokai/images_lizibaokai(3)
+  rotate: true
+  xy: 951, 700
+  size: 72, 69
+  orig: 125, 115
+  offset: 35, 18
+  index: -1
+images/eff_lizibaokai/images_lizibaokai(4)
+  rotate: true
+  xy: 830, 599
+  size: 79, 82
+  orig: 125, 115
+  offset: 31, 15
+  index: -1
+images/eff_lizibaokai/images_lizibaokai(5)
+  rotate: false
+  xy: 853, 680
+  size: 96, 92
+  orig: 125, 115
+  offset: 24, 12
+  index: -1
+images/eff_lizibaokai/images_lizibaokai(6)
+  rotate: true
+  xy: 500, 659
+  size: 95, 96
+  orig: 125, 115
+  offset: 21, 10
+  index: -1
+images/eff_lizibaokai/images_lizibaokai(7)
+  rotate: false
+  xy: 741, 743
+  size: 110, 104
+  orig: 125, 115
+  offset: 13, 7
+  index: -1
+images/eff_lizibaokai/images_lizibaokai(8)
+  rotate: false
+  xy: 351, 631
+  size: 96, 94
+  orig: 125, 115
+  offset: 20, 14
+  index: -1
+images/eff_lizibaokai/images_lizibaokai(9)
+  rotate: false
+  xy: 507, 756
+  size: 117, 108
+  orig: 125, 115
+  offset: 4, 6
+  index: -1
+images/images_fasanguagn1
+  rotate: false
+  xy: 2, 723
+  size: 231, 229
+  orig: 243, 243
+  offset: 7, 9
+  index: -1
+images/jiangli
+  rotate: false
+  xy: 519, 950
+  size: 349, 71
+  orig: 349, 71
+  offset: 0, 0
+  index: -1

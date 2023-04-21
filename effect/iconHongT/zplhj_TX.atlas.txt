@@ -1,0 +1,237 @@
+
+zplhj_TX.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imagesA/baozha01
+  rotate: false
+  xy: 170, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+imagesTX/ItemHongtao
+  rotate: false
+  xy: 2, 858
+  size: 166, 164
+  orig: 207, 183
+  offset: 20, 9
+  index: -1
+imagesTX/eff_TX_00000
+  rotate: false
+  xy: 300, 896
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00015
+  rotate: false
+  xy: 300, 896
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00001
+  rotate: false
+  xy: 431, 896
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00002
+  rotate: false
+  xy: 562, 896
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00003
+  rotate: false
+  xy: 693, 896
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00004
+  rotate: false
+  xy: 824, 896
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00005
+  rotate: false
+  xy: 300, 768
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00006
+  rotate: true
+  xy: 170, 763
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00007
+  rotate: false
+  xy: 2, 730
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00008
+  rotate: false
+  xy: 431, 768
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00009
+  rotate: false
+  xy: 562, 768
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00010
+  rotate: false
+  xy: 693, 768
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00011
+  rotate: false
+  xy: 824, 768
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00012
+  rotate: false
+  xy: 298, 640
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00013
+  rotate: false
+  xy: 133, 635
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/eff_TX_00014
+  rotate: false
+  xy: 2, 602
+  size: 129, 126
+  orig: 207, 183
+  offset: 38, 27
+  index: -1
+imagesTX/images_txshaoguang_00001
+  rotate: true
+  xy: 955, 879
+  size: 25, 26
+  orig: 207, 183
+  offset: 81, 21
+  index: -1
+imagesTX/images_txshaoguang_00002
+  rotate: false
+  xy: 955, 906
+  size: 48, 45
+  orig: 207, 183
+  offset: 58, 22
+  index: -1
+imagesTX/images_txshaoguang_00003
+  rotate: true
+  xy: 955, 953
+  size: 69, 67
+  orig: 207, 183
+  offset: 38, 22
+  index: -1
+imagesTX/images_txshaoguang_00004
+  rotate: true
+  xy: 570, 571
+  size: 81, 94
+  orig: 207, 183
+  offset: 27, 22
+  index: -1
+imagesTX/images_txshaoguang_00005
+  rotate: true
+  xy: 845, 606
+  size: 81, 123
+  orig: 207, 183
+  offset: 27, 22
+  index: -1
+imagesTX/images_txshaoguang_00006
+  rotate: true
+  xy: 701, 684
+  size: 82, 142
+  orig: 207, 183
+  offset: 28, 22
+  index: -1
+imagesTX/images_txshaoguang_00007
+  rotate: false
+  xy: 2, 456
+  size: 82, 144
+  orig: 207, 183
+  offset: 28, 22
+  index: -1
+imagesTX/images_txshaoguang_00008
+  rotate: false
+  xy: 133, 489
+  size: 84, 144
+  orig: 207, 183
+  offset: 29, 22
+  index: -1
+imagesTX/images_txshaoguang_00009
+  rotate: true
+  xy: 570, 654
+  size: 112, 129
+  orig: 207, 183
+  offset: 29, 36
+  index: -1
+imagesTX/images_txshaoguang_00010
+  rotate: false
+  xy: 429, 657
+  size: 139, 109
+  orig: 207, 183
+  offset: 29, 56
+  index: -1
+imagesTX/images_txshaoguang_00011
+  rotate: false
+  xy: 264, 553
+  size: 148, 85
+  orig: 207, 183
+  offset: 31, 80
+  index: -1
+imagesTX/images_txshaoguang_00012
+  rotate: false
+  xy: 845, 689
+  size: 146, 77
+  orig: 207, 183
+  offset: 33, 87
+  index: -1
+imagesTX/images_txshaoguang_00013
+  rotate: false
+  xy: 429, 555
+  size: 139, 100
+  orig: 207, 183
+  offset: 39, 64
+  index: -1
+imagesTX/images_txshaoguang_00014
+  rotate: true
+  xy: 701, 612
+  size: 70, 120
+  orig: 207, 183
+  offset: 108, 41
+  index: -1
+imagesTX/images_txshaoguang_00015
+  rotate: true
+  xy: 666, 539
+  size: 71, 96
+  orig: 207, 183
+  offset: 102, 17
+  index: -1

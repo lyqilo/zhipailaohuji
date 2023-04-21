@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "winGold_,.png",
+	"frame": {"x":0,"y":0,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_..png",
+	"frame": {"x":89,"y":0,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_0.png",
+	"frame": {"x":178,"y":0,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_1.png",
+	"frame": {"x":267,"y":0,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_2.png",
+	"frame": {"x":356,"y":0,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_3.png",
+	"frame": {"x":0,"y":98,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_4.png",
+	"frame": {"x":89,"y":98,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_5.png",
+	"frame": {"x":178,"y":98,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_6.png",
+	"frame": {"x":267,"y":98,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_7.png",
+	"frame": {"x":356,"y":98,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_8.png",
+	"frame": {"x":0,"y":196,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_9.png",
+	"frame": {"x":89,"y":196,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_B.png",
+	"frame": {"x":178,"y":196,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_K.png",
+	"frame": {"x":267,"y":196,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_M.png",
+	"frame": {"x":356,"y":196,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+},
+{
+	"filename": "winGold_T.png",
+	"frame": {"x":0,"y":294,"w":89,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":98},
+	"sourceSize": {"w":89,"h":98}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "winGold1.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b0e15242e70d88b37d449181378969cb:1d7155da7b8a37845d0deb7a1391b900:80f0a985f85b45b075b16f1c5c835720$"
+}
+}

@@ -1,0 +1,153 @@
+
+effect_fangkuang_light1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_xz_kuang1/shaoguang1/tb_efflight_00000
+  rotate: false
+  xy: 2, 1634
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00001
+  rotate: false
+  xy: 274, 1634
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00002
+  rotate: false
+  xy: 546, 1634
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00004
+  rotate: false
+  xy: 818, 1634
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00006
+  rotate: false
+  xy: 1090, 1634
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00007
+  rotate: false
+  xy: 1362, 1634
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00009
+  rotate: false
+  xy: 1634, 1634
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00011
+  rotate: false
+  xy: 2, 1362
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00013
+  rotate: false
+  xy: 274, 1362
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00014
+  rotate: false
+  xy: 546, 1362
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00016
+  rotate: false
+  xy: 818, 1362
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00018
+  rotate: false
+  xy: 1090, 1362
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00020
+  rotate: false
+  xy: 1362, 1362
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00021
+  rotate: false
+  xy: 1634, 1362
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00023
+  rotate: false
+  xy: 2, 1090
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00025
+  rotate: false
+  xy: 274, 1090
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00027
+  rotate: false
+  xy: 546, 1090
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00028
+  rotate: false
+  xy: 818, 1090
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00030
+  rotate: false
+  xy: 1090, 1090
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00032
+  rotate: false
+  xy: 1362, 1090
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+eff_xz_kuang1/shaoguang1/tb_efflight_00034
+  rotate: false
+  xy: 1634, 1090
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1

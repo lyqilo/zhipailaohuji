@@ -1,0 +1,153 @@
+
+win_jinbi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi_00000
+  rotate: true
+  xy: 190, 49
+  size: 27, 23
+  orig: 31, 26
+  offset: 3, 2
+  index: -1
+jinbi_00001
+  rotate: false
+  xy: 141, 12
+  size: 47, 56
+  orig: 57, 60
+  offset: 9, 2
+  index: -1
+jinbi_00002
+  rotate: false
+  xy: 84, 2
+  size: 55, 66
+  orig: 65, 74
+  offset: 8, 2
+  index: -1
+jinbi_00003
+  rotate: true
+  xy: 2, 7
+  size: 61, 80
+  orig: 67, 87
+  offset: 5, 2
+  index: -1
+jinbi_00004
+  rotate: true
+  xy: 165, 78
+  size: 82, 104
+  orig: 86, 112
+  offset: 3, 2
+  index: -1
+jinbi_00005
+  rotate: false
+  xy: 550, 664
+  size: 104, 122
+  orig: 108, 132
+  offset: 3, 2
+  index: -1
+jinbi_00006
+  rotate: false
+  xy: 477, 486
+  size: 125, 143
+  orig: 128, 147
+  offset: 2, 2
+  index: -1
+jinbi_00008
+  rotate: false
+  xy: 2, 70
+  size: 161, 220
+  orig: 164, 223
+  offset: 2, 2
+  index: -1
+jinbi_00009
+  rotate: false
+  xy: 421, 788
+  size: 178, 232
+  orig: 181, 235
+  offset: 2, 2
+  index: -1
+jinbi_00010
+  rotate: false
+  xy: 235, 781
+  size: 184, 239
+  orig: 187, 242
+  offset: 2, 2
+  index: -1
+jinbi_00011
+  rotate: false
+  xy: 220, 538
+  size: 206, 239
+  orig: 210, 249
+  offset: 2, 5
+  index: -1
+jinbi_00012
+  rotate: false
+  xy: 2, 527
+  size: 216, 250
+  orig: 220, 257
+  offset: 3, 5
+  index: -1
+jinbi_00013
+  rotate: false
+  xy: 2, 779
+  size: 231, 241
+  orig: 235, 249
+  offset: 3, 4
+  index: -1
+jinbi_00014
+  rotate: false
+  xy: 2, 292
+  size: 228, 233
+  orig: 239, 242
+  offset: 6, 5
+  index: -1
+jinbi_00017
+  rotate: true
+  xy: 271, 34
+  size: 126, 227
+  orig: 136, 239
+  offset: 5, 5
+  index: -1
+jinbi_00018
+  rotate: true
+  xy: 165, 162
+  size: 128, 232
+  orig: 134, 238
+  offset: 2, 2
+  index: -1
+jinbi_00019
+  rotate: false
+  xy: 232, 318
+  size: 127, 218
+  orig: 135, 227
+  offset: 3, 4
+  index: -1
+jinbi_00020
+  rotate: false
+  xy: 361, 332
+  size: 114, 204
+  orig: 124, 215
+  offset: 5, 6
+  index: -1
+jinbi_00021
+  rotate: true
+  xy: 399, 211
+  size: 119, 190
+  orig: 127, 202
+  offset: 3, 6
+  index: -1
+jinbi_00022
+  rotate: false
+  xy: 500, 50
+  size: 121, 159
+  orig: 130, 170
+  offset: 3, 6
+  index: -1
+jinbi_00023
+  rotate: false
+  xy: 428, 631
+  size: 120, 155
+  orig: 129, 165
+  offset: 3, 5
+  index: -1

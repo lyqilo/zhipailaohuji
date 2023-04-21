@@ -1,0 +1,132 @@
+
+zplhj_K.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imagesA/baozha01
+  rotate: false
+  xy: 471, 752
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+imagesK/ItemK
+  rotate: false
+  xy: 2, 870
+  size: 159, 151
+  orig: 207, 183
+  offset: 24, 16
+  index: -1
+imagesK/di_k/dilightK_00000
+  rotate: true
+  xy: 601, 741
+  size: 59, 114
+  orig: 207, 183
+  offset: 29, 55
+  index: -1
+imagesK/di_k/dilightK_00001
+  rotate: false
+  xy: 919, 863
+  size: 100, 89
+  orig: 207, 183
+  offset: 30, 79
+  index: -1
+imagesK/di_k/dilightK_00002
+  rotate: false
+  xy: 919, 954
+  size: 102, 67
+  orig: 207, 183
+  offset: 33, 100
+  index: -1
+imagesK/di_k/dilightK_00003
+  rotate: false
+  xy: 776, 951
+  size: 141, 70
+  orig: 207, 183
+  offset: 40, 100
+  index: -1
+imagesK/di_k/dilightK_00004
+  rotate: false
+  xy: 771, 772
+  size: 130, 68
+  orig: 207, 183
+  offset: 54, 101
+  index: -1
+imagesK/di_k/dilightK_00005
+  rotate: true
+  xy: 918, 752
+  size: 109, 97
+  orig: 207, 183
+  offset: 75, 71
+  index: -1
+imagesK/di_k/dilightK_00006
+  rotate: true
+  xy: 2, 659
+  size: 105, 143
+  orig: 207, 183
+  offset: 79, 24
+  index: -1
+imagesK/di_k/dilightK_00007
+  rotate: true
+  xy: 2, 766
+  size: 102, 145
+  orig: 207, 183
+  offset: 81, 21
+  index: -1
+imagesK/di_k/dilightK_00008
+  rotate: true
+  xy: 631, 934
+  size: 87, 143
+  orig: 207, 183
+  offset: 95, 21
+  index: -1
+imagesK/di_k/dilightK_00009
+  rotate: true
+  xy: 776, 842
+  size: 107, 140
+  orig: 207, 183
+  offset: 74, 22
+  index: -1
+imagesK/di_k/dilightK_00010
+  rotate: true
+  xy: 631, 802
+  size: 130, 138
+  orig: 207, 183
+  offset: 51, 20
+  index: -1
+imagesK/di_k/dilightK_00011
+  rotate: false
+  xy: 163, 887
+  size: 156, 134
+  orig: 207, 183
+  offset: 24, 21
+  index: -1
+imagesK/di_k/dilightK_00012
+  rotate: false
+  xy: 321, 891
+  size: 154, 130
+  orig: 207, 183
+  offset: 25, 21
+  index: -1
+imagesK/di_k/dilightK_00013
+  rotate: false
+  xy: 477, 882
+  size: 152, 139
+  orig: 207, 183
+  offset: 25, 22
+  index: -1
+imagesK/di_k/dilightK_00014
+  rotate: false
+  xy: 321, 743
+  size: 148, 146
+  orig: 207, 183
+  offset: 26, 22
+  index: -1
+imagesK/di_k/dilightK_00015
+  rotate: true
+  xy: 163, 739
+  size: 146, 147
+  orig: 207, 183
+  offset: 26, 23
+  index: -1
